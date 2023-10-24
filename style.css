@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(130, 196, 196)#CCCCCC;
+}
+
+h1{
+    color: red;
+    background-color: pink;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+em strong {
+    color :red;
+}
