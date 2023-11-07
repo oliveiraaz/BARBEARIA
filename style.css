@@ -1,14 +1,18 @@
 body{
-    background-color: rgb(212, 57, 153)#CCCCCC;
+    background-color: rgb(212, 27, 27)#CCCCCC;
 }
 
 #banner{
     width: 100%;
 }
 
+.principal{
+        background-color: #CCCCCC;
+}
+
 h1{
-    color: red;
-    background-color: pink;
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 87, 108);
     text-align: center;
 }
 
@@ -18,8 +22,17 @@ p {
 }
 
 #missao {
-
+    font-size: 30px;
 }
+
 em strong {
     color :red;
+}
+
+.itens { 
+    font-style: italic;
+}
+
+.beneficios{
+    background-color: #FFFFFF;
 }
