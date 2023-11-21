@@ -8,9 +8,15 @@ body{
 
 .principal{
         background-color: #CCCCCC;
+        padding: 30px;
 }
 
-h1{
+.titulo-principal{
+padding-left: 20px;
+}
+
+
+.titulo-centralizado {
     color: rgb(255, 255, 255);
     background-color: rgb(173, 87, 108);
     text-align: center;
@@ -35,4 +41,15 @@ em strong {
 
 .beneficios{
     background-color: #FFFFFF;
+    padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 50%;
 }
